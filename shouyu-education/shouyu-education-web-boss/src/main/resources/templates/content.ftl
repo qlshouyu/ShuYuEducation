@@ -2,7 +2,7 @@
 <div class="bjui-pageHeader" style="background: #FFF;">
 	<div style="padding: 0 15px;">
 		<h4 style="margin-bottom: 20px;">
-			<small>开源协议：MIT | 官网：<a href="https://edu.roncoo.net/" target="_blank">https://edu.roncoo.net/</a> </small>
+			<small>开源协议：MIT | 官网：<a href="https://blog.csdn.net/qlshouyu/" target="_blank">https://blog.csdn.net/qlshouyu/</a> </small>
 		</h4>
 	</div>
 </div>
