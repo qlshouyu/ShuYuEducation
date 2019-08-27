@@ -50,17 +50,6 @@
 			<artifactId>spring-cloud-starter-config</artifactId>
 		</dependency>
 
-		<!-- mybatis -->
-		<dependency>
-			<groupId>org.mybatis.spring.boot</groupId>
-			<artifactId>mybatis-spring-boot-starter</artifactId>
-			<exclusions>
-				<exclusion>
-					<groupId>org.apache.tomcat</groupId>
-					<artifactId>tomcat-jdbc</artifactId>
-				</exclusion>
-			</exclusions>
-		</dependency>
 
 		<!-- cache -->
 		<dependency>
@@ -72,12 +61,6 @@
 			<artifactId>spring-boot-starter-data-redis</artifactId>
 		</dependency>
 
-		<!-- Druid -->
-		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<scope>runtime</scope>
-		</dependency>
 
 		<!-- zipkin -->
 		<dependency>
