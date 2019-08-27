@@ -14,7 +14,7 @@ import com.xiaoleilu.hutool.util.ObjectUtil;
 /**
  * 讲师信息 
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class AuthApiLecturerBiz {

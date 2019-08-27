@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 行政区域表 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/region")

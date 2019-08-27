@@ -20,7 +20,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 广告信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossAdvBiz {

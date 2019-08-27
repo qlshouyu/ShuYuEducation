@@ -14,7 +14,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 专区
  *
- * @author wujing
+ * @author 高露
  */
 public interface BossZone {
 

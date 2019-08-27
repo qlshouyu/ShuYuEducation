@@ -15,7 +15,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 数据字典
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossDicBiz {

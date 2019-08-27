@@ -18,7 +18,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 讲师账户信息表
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 @RequestMapping(value = "/user/auth/lecturer/ext")

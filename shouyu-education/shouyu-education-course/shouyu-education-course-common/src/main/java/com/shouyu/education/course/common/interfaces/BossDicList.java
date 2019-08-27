@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 数据字典明细表 
  *
- * @author wujing
+ * @author 高露
  */
 public interface BossDicList {
 	

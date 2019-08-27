@@ -19,7 +19,10 @@
 			<groupId>com.shouyu</groupId>
 			<artifactId>shouyu-education-user-feign</artifactId>
 		</dependency>
-
+		<dependency>
+			<groupId>com.shouyu</groupId>
+			<artifactId>shouyu-education-framework-db</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>com.shouyu</groupId>
 			<artifactId>shouyu-education-system-feign</artifactId>

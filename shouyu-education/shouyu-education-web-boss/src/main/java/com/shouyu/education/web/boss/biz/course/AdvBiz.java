@@ -19,7 +19,7 @@ import com.shouyu.education.util.tools.DateUtil;
 /**
  * 广告信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class AdvBiz extends BaseBiz {

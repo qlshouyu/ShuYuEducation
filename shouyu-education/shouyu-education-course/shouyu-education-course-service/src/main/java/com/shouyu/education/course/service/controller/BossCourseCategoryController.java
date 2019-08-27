@@ -17,7 +17,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课程分类
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossCourseCategoryController extends BaseController implements BossCourseCategory {

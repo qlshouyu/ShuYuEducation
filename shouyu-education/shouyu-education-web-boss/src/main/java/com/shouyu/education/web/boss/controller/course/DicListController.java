@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 数据字典明细表 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/dicList")

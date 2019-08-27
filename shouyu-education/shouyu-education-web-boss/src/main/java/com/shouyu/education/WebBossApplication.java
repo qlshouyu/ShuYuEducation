@@ -11,7 +11,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 /**
  * boss工程
  * 
- * @author wujing
+ * @author 高露
  */
 @EnableFeignClients
 @ServletComponentScan

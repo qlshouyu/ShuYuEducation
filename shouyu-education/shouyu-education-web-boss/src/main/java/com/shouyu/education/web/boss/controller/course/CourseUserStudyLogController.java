@@ -16,7 +16,7 @@ import com.shouyu.education.web.boss.biz.course.CourseUserStudyLogBiz;
 /**
  * 课程用户学习日志
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/courseUserStudyLog")

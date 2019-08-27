@@ -17,7 +17,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 专区 
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossZoneController extends BaseController implements BossZone{

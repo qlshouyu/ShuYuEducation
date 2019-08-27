@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 讲师账户信息表
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossLecturerExtController extends BaseController implements BossLecturerExt {

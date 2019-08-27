@@ -13,7 +13,7 @@ import com.spring4all.swagger.EnableSwagger2Doc;
 /**
  * 课程服务
  * 
- * @author wujing
+ * @author 高露
  */
 @EnableSwagger2Doc
 @EnableFeignClients

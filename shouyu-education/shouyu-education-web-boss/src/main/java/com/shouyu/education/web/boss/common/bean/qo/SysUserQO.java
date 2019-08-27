@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
  * 后台用户信息
  * </p>
  *
- * @author wujing123
+ * @author 高露123
  * @since 2018-01-29
  */
 @Data

@@ -15,7 +15,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 用户修改日志 
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossUserLogModifiedBiz {

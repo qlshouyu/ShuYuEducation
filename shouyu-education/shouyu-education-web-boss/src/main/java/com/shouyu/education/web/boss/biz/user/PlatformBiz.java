@@ -13,7 +13,7 @@ import com.shouyu.education.util.tools.StrUtil;
 /**
  * 平台信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class PlatformBiz extends BaseBiz {

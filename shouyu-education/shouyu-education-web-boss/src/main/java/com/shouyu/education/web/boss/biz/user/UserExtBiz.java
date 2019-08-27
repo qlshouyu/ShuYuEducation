@@ -18,7 +18,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 用户教育信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class UserExtBiz extends BaseBiz {

@@ -26,7 +26,7 @@ import com.shouyu.education.web.boss.service.dao.impl.mapper.entity.SysRoleExamp
 /**
  * 角色信息
  *
- * @author wujing123
+ * @author 高露123
  * @since 2018-01-29
  */
 @Component

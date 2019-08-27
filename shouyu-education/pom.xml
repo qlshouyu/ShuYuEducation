@@ -64,7 +64,12 @@
 			</dependency>
 			<dependency>
 				<groupId>com.shouyu</groupId>
-				<artifactId>shouyu-education-util</artifactId>
+				<artifactId>shouyu-education-framework-util</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.shouyu</groupId>
+				<artifactId>shouyu-education-framework-db</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 
@@ -293,8 +298,6 @@
 	</profiles>
 
 	<modules>
-		<!-- 公用工具 -->
-		<module>shouyu-education-util</module>
 		<!-- 系统管理 -->
 		<module>shouyu-education-system</module>
 		<!-- 用户管理 -->

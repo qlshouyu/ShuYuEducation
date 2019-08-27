@@ -18,7 +18,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 订单信息表
  *
- * @author wujing
+ * @author 高露
  */
 public interface BossOrderInfo {
 

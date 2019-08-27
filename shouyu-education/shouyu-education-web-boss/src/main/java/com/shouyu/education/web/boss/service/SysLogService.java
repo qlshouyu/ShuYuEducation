@@ -20,7 +20,7 @@ import com.shouyu.education.web.boss.service.dao.impl.mapper.entity.SysLogExampl
 /**
  * 后台操作日志表 
  *
- * @author wujing123
+ * @author 高露123
  * @since 2018-01-29
  */
 @Component

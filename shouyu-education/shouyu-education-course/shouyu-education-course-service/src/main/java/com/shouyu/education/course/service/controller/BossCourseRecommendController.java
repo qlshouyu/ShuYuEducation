@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课程推荐
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossCourseRecommendController extends BaseController implements BossCourseRecommend {

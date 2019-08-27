@@ -21,7 +21,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 课时信息-审核
  *
- * @author wujing123
+ * @author 高露123
  */
 @RestController
 @RequestMapping(value = "/callback/polyv")

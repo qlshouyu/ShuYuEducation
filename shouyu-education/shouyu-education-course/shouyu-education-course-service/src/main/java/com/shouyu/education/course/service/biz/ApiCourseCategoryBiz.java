@@ -23,7 +23,7 @@ import com.shouyu.education.util.base.Result;
 /**
  * 课程分类
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class ApiCourseCategoryBiz {

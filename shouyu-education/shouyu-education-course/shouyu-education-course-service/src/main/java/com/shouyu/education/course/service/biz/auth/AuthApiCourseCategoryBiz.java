@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 /**
  * 课程分类 
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class AuthApiCourseCategoryBiz {

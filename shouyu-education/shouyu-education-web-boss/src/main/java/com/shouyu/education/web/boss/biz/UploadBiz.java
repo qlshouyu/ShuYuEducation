@@ -17,7 +17,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 上传功能
  * 
- * @author wujing
+ * @author 高露
  */
 @Component
 public class UploadBiz extends BaseBiz {

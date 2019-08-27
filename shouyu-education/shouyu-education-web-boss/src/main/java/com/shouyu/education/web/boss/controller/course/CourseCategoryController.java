@@ -16,7 +16,7 @@ import com.shouyu.education.web.boss.biz.course.CourseCategoryBiz;
 /**
  * 课程分类
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/courseCategory")

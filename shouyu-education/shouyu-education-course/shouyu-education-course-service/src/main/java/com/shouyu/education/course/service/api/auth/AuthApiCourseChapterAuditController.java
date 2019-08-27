@@ -25,7 +25,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 章节信息-审核
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 @RequestMapping(value = "/course/auth/course/chapter/audit")

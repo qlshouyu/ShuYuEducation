@@ -20,7 +20,7 @@ import com.shouyu.education.web.boss.biz.course.OrderInfoBiz;
 /**
  * 订单信息表
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/orderInfo")

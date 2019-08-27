@@ -18,7 +18,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 分页
  * 
- * @author wujing
+ * @author 高露
  * @param <T>
  */
 public final class EsPageUtil<T extends Serializable> implements Serializable {

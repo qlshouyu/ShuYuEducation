@@ -15,7 +15,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 课程分类
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 @RequestMapping(value = "/course/api/course/category")

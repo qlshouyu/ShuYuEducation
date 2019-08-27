@@ -18,7 +18,7 @@ import com.shouyu.education.web.boss.biz.user.UserExtBiz;
 /**
  * 用户教育信息
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/userExt")

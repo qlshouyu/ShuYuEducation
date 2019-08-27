@@ -55,7 +55,7 @@ import com.xiaoleilu.hutool.util.CollectionUtil;
 /**
  * 课程信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class ApiCourseBiz {

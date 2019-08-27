@@ -7,7 +7,7 @@ import com.shouyu.education.user.common.interfaces.BossLecturerAudit;
 /**
  * 讲师信息-审核 
  *
- * @author wujing
+ * @author 高露
  */
 @FeignClient(value = "shouyu-education-user-service")
 public interface IBossLecturerAudit extends BossLecturerAudit {

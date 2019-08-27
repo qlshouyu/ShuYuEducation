@@ -27,7 +27,7 @@ import com.shouyu.education.util.tools.DateUtil;
 /**
  * 课程用户学习日志
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossCourseUserStudyLogBiz {

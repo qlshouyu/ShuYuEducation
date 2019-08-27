@@ -33,7 +33,7 @@ import com.xiaoleilu.hutool.util.CollectionUtil;
 /**
  * 订单信息表
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossOrderInfoBiz extends BaseBiz {

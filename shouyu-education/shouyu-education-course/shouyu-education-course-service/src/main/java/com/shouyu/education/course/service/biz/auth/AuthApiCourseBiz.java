@@ -50,7 +50,7 @@ import com.xiaoleilu.hutool.util.ObjectUtil;
 /**
  * 课程信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class AuthApiCourseBiz extends BaseBiz {

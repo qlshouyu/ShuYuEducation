@@ -22,7 +22,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 课程信息
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 @RequestMapping(value = "/course/api/course")

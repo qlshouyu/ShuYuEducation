@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课程推荐
  *
- * @author wujing
+ * @author 高露
  */
 public interface BossCourseRecommend {
 

@@ -18,7 +18,7 @@ import com.shouyu.education.util.tools.SignUtil;
 /**
  * 讲师账户信息表
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossLecturerExtBiz extends BaseBiz {

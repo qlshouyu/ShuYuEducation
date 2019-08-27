@@ -7,7 +7,7 @@ import com.shouyu.education.user.common.interfaces.BossUserExt;
 /**
  * 用户教育信息
  *
- * @author wujing
+ * @author 高露
  */
 @FeignClient(value = "shouyu-education-user-service")
 public interface IBossUserExt extends BossUserExt {

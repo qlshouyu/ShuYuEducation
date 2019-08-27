@@ -15,7 +15,7 @@ import com.shouyu.education.web.boss.biz.user.UserBiz;
 /**
  * 用户基本信息 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/user")

@@ -17,7 +17,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 平台信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossPlatformBiz {

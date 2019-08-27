@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课程介绍信息 
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossCourseIntroduceAuditController extends BaseController implements BossCourseIntroduceAudit{

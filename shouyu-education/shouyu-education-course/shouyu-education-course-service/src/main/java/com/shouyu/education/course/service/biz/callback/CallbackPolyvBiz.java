@@ -31,7 +31,7 @@ import com.shouyu.education.util.tools.MD5Util;
 /**
  * 课时信息-审核
  *
- * @author wujing123
+ * @author 高露123
  */
 @Component
 public class CallbackPolyvBiz extends BaseBiz {

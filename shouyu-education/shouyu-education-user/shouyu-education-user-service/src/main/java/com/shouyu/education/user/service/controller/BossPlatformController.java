@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 平台信息
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossPlatformController extends BaseController implements BossPlatform {

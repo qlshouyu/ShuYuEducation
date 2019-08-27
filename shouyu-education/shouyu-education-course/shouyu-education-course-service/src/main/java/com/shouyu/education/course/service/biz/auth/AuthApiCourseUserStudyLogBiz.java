@@ -21,7 +21,7 @@ import com.shouyu.education.util.base.Result;
 /**
  * 课程信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class AuthApiCourseUserStudyLogBiz extends BaseBiz {

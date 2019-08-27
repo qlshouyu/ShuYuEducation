@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 用户错误登录日志 
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossUserLogLoginController extends BaseController implements BossUserLogLogin{

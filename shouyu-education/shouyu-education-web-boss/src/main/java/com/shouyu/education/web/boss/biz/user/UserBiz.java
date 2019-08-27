@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 用户基本信息 
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class UserBiz extends BaseBiz{

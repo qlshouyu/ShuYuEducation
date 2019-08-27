@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 课程用户关联表 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/courseUserStudy")

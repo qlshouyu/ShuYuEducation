@@ -17,7 +17,7 @@ import com.shouyu.education.web.boss.biz.user.LecturerAuditBiz;
 /**
  * 讲师信息-审核 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/lecturerAudit")

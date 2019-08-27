@@ -13,7 +13,14 @@
     <packaging>pom</packaging>
     <modules>
         <module>shouyu-education-framework-web</module>
+        <module>shouyu-education-framework-db</module>
+        <module>shouyu-education-framework-util</module>
     </modules>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+    </dependencies>
 </project>

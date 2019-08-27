@@ -28,7 +28,7 @@ import com.xiaoleilu.hutool.util.ObjectUtil;
 /**
  * 后台用户信息
  *
- * @author wujing123
+ * @author 高露123
  * @since 2018-01-29
  */
 @Component

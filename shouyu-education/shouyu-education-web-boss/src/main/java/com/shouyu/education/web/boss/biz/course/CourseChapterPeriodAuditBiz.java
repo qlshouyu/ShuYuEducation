@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课时信息-审核 
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class CourseChapterPeriodAuditBiz extends BaseBiz{

@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 章节信息-审核 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/courseChapterAudit")

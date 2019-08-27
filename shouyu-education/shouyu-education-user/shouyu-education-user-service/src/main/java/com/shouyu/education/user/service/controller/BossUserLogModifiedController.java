@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 用户修改日志 
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossUserLogModifiedController extends BaseController implements BossUserLogModified{

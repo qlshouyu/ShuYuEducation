@@ -11,7 +11,7 @@ import com.shouyu.education.util.base.Result;
 
 /**
  * 
- * @author wujing
+ * @author 高露
  */
 @RestControllerAdvice(basePackages = "com.shouyu.education.user.service.controller.gateway")
 public class HandlerException extends BaseController {

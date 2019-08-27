@@ -15,7 +15,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 课程用户关联表 
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossCourseUserStudyBiz {

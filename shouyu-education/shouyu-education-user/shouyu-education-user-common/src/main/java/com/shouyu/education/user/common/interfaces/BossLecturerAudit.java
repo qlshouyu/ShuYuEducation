@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 讲师信息-审核
  *
- * @author wujing
+ * @author 高露
  */
 public interface BossLecturerAudit {
 

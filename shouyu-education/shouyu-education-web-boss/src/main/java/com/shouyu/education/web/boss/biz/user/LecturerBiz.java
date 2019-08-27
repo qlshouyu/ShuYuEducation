@@ -12,7 +12,7 @@ import com.shouyu.education.web.boss.common.BizBoss;
 /**
  * 讲师信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class LecturerBiz extends BizBoss {

@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 讲师提现日志表
  *
- * @author wujing
+ * @author 高露
  */
 public interface BossLecturerProfit {
 

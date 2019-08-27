@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 订单支付信息表 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/orderPay")

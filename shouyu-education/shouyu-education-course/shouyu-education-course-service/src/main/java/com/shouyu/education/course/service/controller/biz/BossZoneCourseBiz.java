@@ -26,7 +26,7 @@ import com.shouyu.education.course.service.dao.impl.mapper.entity.ZoneCourseExam
 /**
  * 专区课程关联表
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossZoneCourseBiz {

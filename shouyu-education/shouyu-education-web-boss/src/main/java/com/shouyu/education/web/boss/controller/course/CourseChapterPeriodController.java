@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 课时信息 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/courseChapterPeriod")

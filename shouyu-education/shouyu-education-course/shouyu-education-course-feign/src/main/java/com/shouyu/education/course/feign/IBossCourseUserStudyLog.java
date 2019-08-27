@@ -7,7 +7,7 @@ import com.shouyu.education.course.common.interfaces.BossCourseUserStudyLog;
 /**
  * 课程用户学习日志 
  *
- * @author wujing
+ * @author 高露
  */
 @FeignClient(value = "shouyu-education-course-service")
 public interface IBossCourseUserStudyLog extends BossCourseUserStudyLog {

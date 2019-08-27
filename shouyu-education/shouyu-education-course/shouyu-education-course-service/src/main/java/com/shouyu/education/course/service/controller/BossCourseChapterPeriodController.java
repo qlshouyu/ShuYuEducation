@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课时信息
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossCourseChapterPeriodController extends BaseController implements BossCourseChapterPeriod {

@@ -16,7 +16,7 @@ import com.shouyu.education.web.boss.service.SysLogService;
 /**
  * 后台操作日志表
  *
- * @author wujing
+ * @author 高露
  * @since 2018-01-29
  */
 @Controller

@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 行政区域表 
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossRegionController extends BaseController implements BossRegion{

@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 用户修改日志 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/userLogModified")

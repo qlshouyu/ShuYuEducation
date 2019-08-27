@@ -42,7 +42,7 @@ import com.xiaoleilu.hutool.util.ObjectUtil;
 /**
  * 课程信息-审核
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class AuthApiCourseAuditBiz extends BaseBiz {

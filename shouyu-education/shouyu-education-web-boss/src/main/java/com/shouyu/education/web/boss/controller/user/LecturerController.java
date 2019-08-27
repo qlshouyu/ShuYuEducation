@@ -15,7 +15,7 @@ import com.shouyu.education.web.boss.biz.user.LecturerBiz;
 /**
  * 讲师信息
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/lecturer")

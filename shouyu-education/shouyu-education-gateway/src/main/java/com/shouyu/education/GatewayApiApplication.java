@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * 服务网关
  * 
- * @author wujing
+ * @author 高露
  */
 @EnableZuulProxy
 @SpringCloudApplication

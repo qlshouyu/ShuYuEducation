@@ -15,7 +15,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 讲师账户信息表 
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/lecturerExt")

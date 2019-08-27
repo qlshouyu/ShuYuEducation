@@ -20,7 +20,7 @@ import com.shouyu.education.util.base.BaseController;
 /**
  * 讲师提现日志表
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/user/lecturerProfit")

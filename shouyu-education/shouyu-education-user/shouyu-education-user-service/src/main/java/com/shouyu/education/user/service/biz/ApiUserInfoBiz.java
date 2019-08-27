@@ -50,7 +50,7 @@ import com.xiaoleilu.hutool.util.RandomUtil;
 /**
  * 用户基本信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class ApiUserInfoBiz extends BaseBiz {

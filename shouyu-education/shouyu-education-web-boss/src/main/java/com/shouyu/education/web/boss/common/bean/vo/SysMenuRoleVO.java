@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
  * 菜单角色关联表
  * </p>
  *
- * @author wujing123
+ * @author 高露123
  * @since 2018-01-29
  */
 @Data

@@ -23,7 +23,7 @@ import com.shouyu.education.web.boss.common.BizBoss;
 /**
  * 课程信息-审核
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class CourseAuditBiz extends BizBoss {

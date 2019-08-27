@@ -16,7 +16,7 @@ import com.shouyu.education.web.boss.biz.course.CourseRecommendBiz;
 /**
  * 课程推荐
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/courseRecommend")

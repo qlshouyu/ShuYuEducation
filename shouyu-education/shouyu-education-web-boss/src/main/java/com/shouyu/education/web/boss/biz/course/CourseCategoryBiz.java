@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课程分类 
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class CourseCategoryBiz extends BaseBiz{

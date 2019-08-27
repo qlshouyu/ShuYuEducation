@@ -16,7 +16,7 @@ import com.shouyu.education.web.boss.biz.course.ZoneCourseBiz;
 /**
  * 专区课程关联表
  *
- * @author wujing
+ * @author 高露
  */
 @Controller
 @RequestMapping(value = "/course/zoneCourse")

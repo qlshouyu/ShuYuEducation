@@ -34,7 +34,7 @@ import com.xiaoleilu.hutool.util.ObjectUtil;
 /**
  * 讲师提现日志表
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class AuthApiLecturerProfitBiz extends BaseBiz {

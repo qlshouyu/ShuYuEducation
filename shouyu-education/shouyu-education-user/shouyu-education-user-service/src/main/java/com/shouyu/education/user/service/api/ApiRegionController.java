@@ -19,7 +19,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 行政区域表
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 @RequestMapping(value = "/user/api/region/")

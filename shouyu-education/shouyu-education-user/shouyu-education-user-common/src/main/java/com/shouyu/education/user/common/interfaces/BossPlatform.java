@@ -12,7 +12,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 平台信息
  *
- * @author wujing
+ * @author 高露
  */
 public interface BossPlatform {
 

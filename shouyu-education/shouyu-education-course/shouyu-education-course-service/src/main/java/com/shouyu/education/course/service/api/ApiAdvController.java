@@ -17,7 +17,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 广告信息
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 @RequestMapping(value = "/course/api/adv")

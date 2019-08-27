@@ -18,7 +18,7 @@ import com.shouyu.education.web.boss.common.BizBoss;
 /**
  * 课程信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class CourseBiz extends BizBoss {

@@ -23,7 +23,7 @@ import com.shouyu.education.util.tools.ThreadLocalUtil;
 /**
  * 防止XSS攻击的过滤器
  * 
- * @author wujing
+ * @author 高露
  */
 @WebFilter(filterName = "filterXSS", urlPatterns = { "/admin/*", "/course/*", "/user/*", "/system/*" })
 public class FilterXSS implements Filter {
@@ -48,7 +48,7 @@ public class FilterXSS implements Filter {
 
 /**
  * 
- * @author wujing
+ * @author 高露
  */
 class XssHttpServletRequestWrapper extends HttpServletRequestWrapper {
 

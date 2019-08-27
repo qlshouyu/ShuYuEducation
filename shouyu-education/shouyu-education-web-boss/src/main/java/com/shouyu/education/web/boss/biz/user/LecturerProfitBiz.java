@@ -21,7 +21,7 @@ import com.shouyu.education.web.boss.common.ReportExcelUtil;
 /**
  * 讲师提现日志表
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class LecturerProfitBiz extends BizBoss {

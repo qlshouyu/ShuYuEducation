@@ -29,7 +29,7 @@ import com.shouyu.education.util.tools.DateUtil;
 /**
  * 用户教育信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossUserExtBiz extends BaseBiz {

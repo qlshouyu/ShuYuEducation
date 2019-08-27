@@ -7,7 +7,7 @@ import com.shouyu.education.user.common.interfaces.BossPlatform;
 /**
  * 平台信息
  *
- * @author wujing
+ * @author 高露
  */
 @FeignClient(value = "shouyu-education-user-service")
 public interface IBossPlatform extends BossPlatform {

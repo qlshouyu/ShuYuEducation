@@ -16,7 +16,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 章节信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class CourseChapterBiz extends BaseBiz {

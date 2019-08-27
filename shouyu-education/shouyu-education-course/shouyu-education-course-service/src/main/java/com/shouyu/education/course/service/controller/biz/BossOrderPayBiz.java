@@ -16,7 +16,7 @@ import com.shouyu.education.util.tools.BeanUtil;
 /**
  * 订单支付信息表
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class BossOrderPayBiz {

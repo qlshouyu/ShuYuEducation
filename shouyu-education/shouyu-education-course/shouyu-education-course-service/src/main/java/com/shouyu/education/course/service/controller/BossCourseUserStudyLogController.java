@@ -17,7 +17,7 @@ import com.shouyu.education.util.base.Page;
 /**
  * 课程用户学习日志
  *
- * @author wujing
+ * @author 高露
  */
 @RestController
 public class BossCourseUserStudyLogController extends BaseController implements BossCourseUserStudyLog {

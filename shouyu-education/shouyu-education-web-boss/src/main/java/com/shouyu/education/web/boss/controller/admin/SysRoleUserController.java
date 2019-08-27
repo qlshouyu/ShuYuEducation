@@ -22,7 +22,7 @@ import com.shouyu.education.web.boss.service.SysRoleUserService;
 /**
  * 角色用户关联表
  *
- * @author wujing123
+ * @author 高露123
  * @since 2018-01-29
  */
 @Controller

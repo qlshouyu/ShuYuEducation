@@ -19,7 +19,7 @@ import com.xiaoleilu.hutool.util.CollectionUtil;
 /**
  * 广告信息
  *
- * @author wujing
+ * @author 高露
  */
 @Component
 public class ApiAdvBiz {

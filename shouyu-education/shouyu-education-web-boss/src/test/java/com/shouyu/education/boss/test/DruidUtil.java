@@ -5,7 +5,7 @@ import com.alibaba.druid.filter.config.ConfigTools;
 /**
  * druid 加密
  * 
- * @author wujing
+ * @author 高露
  */
 public class DruidUtil {
 

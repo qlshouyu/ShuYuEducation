@@ -16,7 +16,7 @@
 
 		<dependency>
 			<groupId>com.shouyu</groupId>
-			<artifactId>shouyu-education-util</artifactId>
+			<artifactId>shouyu-education-framework-util</artifactId>
 		</dependency>
 
 		<dependency>
